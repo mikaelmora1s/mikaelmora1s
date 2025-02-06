@@ -1,23 +1,22 @@
-<h1 align="center">Olá, sou Mikael Morais 👋</h1>
-<h3 align="center">Desenvolvedor Front-End </h3>
-
-### 👨‍💻 Sobre mim
-<p>Sou um desenvolvedor Front-End apaixonado por criar interfaces de usuário elegantes e funcionais.</p>
-
----
-
-### 🌐 Tecnologias
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-</div>
 
----
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mikaelmora1s&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=ba91e6&text_color=f1f1f1&icon_color=ba91e6"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelmora1s&layout=compact&langs_count=7&theme=transparent&hide_border=true&bg_color=00000000&title_color=ba91e6&text_color=f1f1f1"/>
 
-### 📈 Estatísticas do GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikaelmora1s&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=242424&text_color=fff&title_color=fff" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelmora1s&layout=compact&langs_count=7&theme=radical&bg_color=242424&text_color=ffffff&title_color=fff" alt="Linguagens mais usadas" />
+  <h2> 🛠️ Habilidades e Tecnologias:</h2>
+  
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VSCode" /
+  </div>
+
+  ---
+  
+  <h2>🌐 Conecte-se comigo:</h2>
+  
+  <strong>Em breve</strong>
 </div>
